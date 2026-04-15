@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/health', (req, res) => {
-  res.send('OK');
+  res.send('OKkkkkkkkkkkkkkk');
 });
 
 app.listen(3000, () => console.log('Server running on 3000'));
